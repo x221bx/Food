@@ -16,3 +16,4 @@ Technologies Used
 Kotlin: Primary programming language for development.
 Android SDK: To build and test native Android features.
 XML Layouts: For creating a responsive and visually appealing UI.
+![image](https://github.com/user-attachments/assets/99e8c380-8a0b-43f0-99b6-3c5332f28ca9)
