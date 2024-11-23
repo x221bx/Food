@@ -17,3 +17,6 @@ Kotlin: Primary programming language for development.
 Android SDK: To build and test native Android features.
 XML Layouts: For creating a responsive and visually appealing UI.
 ![image](https://github.com/user-attachments/assets/99e8c380-8a0b-43f0-99b6-3c5332f28ca9)
+
+our pp 
+https://www.canva.com/design/DAGRAbIaRS8/rcvMF6MQ37vGTxP9Mck9oQ/edit?utm_content=DAGRAbIaRS8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
